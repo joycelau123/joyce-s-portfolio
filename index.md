@@ -8,7 +8,7 @@ Welcome to my ICS4U portfolio. I’ll use this site to post my work and reflecti
 
 ## About me
 I am Joyce Lau.
-A short intro (interests, goals, tools I’m learning).
+
 
 ---
 *Update this page by editing `index.md` in your repository.*
